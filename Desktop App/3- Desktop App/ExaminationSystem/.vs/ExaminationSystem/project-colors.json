@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d538b96-1882-4562-aa3c-6b0629f03f0a": {
+      "ProjectGuid": "3d538b96-1882-4562-aa3c-6b0629f03f0a",
+      "DisplayName": "ExaminationSystem",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f835be5b-3e60-494e-b0b6-9c1517302f6e": {
+      "ProjectGuid": "f835be5b-3e60-494e-b0b6-9c1517302f6e",
+      "DisplayName": "Lab9",
+      "ColorIndex": 1
+    },
+    "9758cb02-c23f-41b9-b001-28883fa24d0d": {
+      "ProjectGuid": "9758cb02-c23f-41b9-b001-28883fa24d0d",
+      "DisplayName": "project",
+      "ColorIndex": 2
+    },
+    "9e3d2f9b-7f1b-4e97-bc3a-bb48cc35a043": {
+      "ProjectGuid": "9e3d2f9b-7f1b-4e97-bc3a-bb48cc35a043",
+      "DisplayName": "DealingWithDB",
+      "ColorIndex": 3
+    },
+    "28da6ab5-cd86-4c4d-ba17-b64910e2e9cf": {
+      "ProjectGuid": "28da6ab5-cd86-4c4d-ba17-b64910e2e9cf",
+      "DisplayName": "Lab 8",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

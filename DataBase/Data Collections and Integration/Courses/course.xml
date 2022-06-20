@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+<course>
+ <course_id>1</course_id>
+ <course_name>Database</course_name>
+ <Hours>40</Hours>
+</course>
+<course>
+ <course_id>2</course_id>
+ <course_name>Python</course_name>
+ <Hours>70</Hours>
+</course>
+<course>
+ <course_id>3</course_id>
+ <course_name>C Sharp</course_name>
+ <Hours>60</Hours>
+</course>
+<course>
+ <course_id>4</course_id>
+ <course_name>Statstics</course_name>
+ <Hours>55</Hours>
+</course>
+<course>
+ <course_id>5</course_id>
+ <course_name>Big Data</course_name>
+ <Hours>100</Hours>
+</course>
+<course>
+ <course_id>6</course_id>
+ <course_name>HTML</course_name>
+ <Hours>30</Hours>
+</course>
+<course>
+ <course_id>7</course_id>
+ <course_name>ML</course_name>
+ <Hours>120</Hours>
+</course>
+<course>
+ <course_id>8</course_id>
+ <course_name>Java</course_name>
+ <Hours>50</Hours>
+</course>
+<course>
+ <course_id>9</course_id>
+ <course_name>Introduction to the Internet of Things - IoT Value Chain</course_name>
+ <Hours>80</Hours>
+</course>
+
+
+</courses>

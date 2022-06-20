@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Student_Login", "Student_Login\Student_Login.dtproj", "{ED26B5FA-7290-43B9-BE4E-C80B22B91D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED26B5FA-7290-43B9-BE4E-C80B22B91D39}.Development|Default.ActiveCfg = Development
+		{ED26B5FA-7290-43B9-BE4E-C80B22B91D39}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E02B542-A4BE-4ED1-8DBB-D6D91DE4FA38}
+	EndGlobalSection
+EndGlobal

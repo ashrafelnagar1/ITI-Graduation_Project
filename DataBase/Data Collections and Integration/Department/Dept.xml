@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Department>
+<Dept>
+  <dept_id >1</dept_id>
+  <dept_name>BI</dept_name>
+  <branch>Mansoura</branch>
+</Dept>
+<Dept>
+  <dept_id >2</dept_id>
+  <dept_name>Web</dept_name>
+  <branch>Smart</branch>
+</Dept>
+<Dept>
+  <dept_id >3</dept_id>
+  <dept_name>AI</dept_name>
+  <branch>Alex</branch>
+</Dept>
+<Dept>
+  <dept_id >4</dept_id>
+  <dept_name>Data Science</dept_name>
+  <branch>Smart</branch>
+</Dept>
+<Dept>
+  <dept_id >5</dept_id>
+  <dept_name>IOT</dept_name>
+  <branch>Monfia</branch>
+</Dept>
+<Dept>
+  <dept_id >50</dept_id>
+  <dept_name>No Dept</dept_name>
+  <branch>No Branch</branch>
+</Dept>
+
+
+
+</Department>
